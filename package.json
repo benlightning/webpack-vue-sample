@@ -7,7 +7,7 @@
     "webpack": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "zhanglei",
+  "author": "benlightning",
   "license": "ISC",
   "dependencies": {
     "babel-preset-es2015": "^6.18.0",
